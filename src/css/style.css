@@ -2,5 +2,38 @@ body {
    width: 100vw;
    height: 100vh;
    background-color: aqua;
-   
+   display: flex;
+   justify-content: center;
+   align-items: center;   
+}
+
+.container {
+   width: 90%;
+   height: 90%;
+   background-color: aquamarine;
+   display: grid;
+   grid-template-areas:
+    "logo logo"
+    "mockups conteudo"
+    "icones icones"
+   ;
+}
+
+.header {
+   grid-area: logo;
+   background-color: black;
+}
+figure{
+   grid-area: mockups;
+   background-color: brown;
+}
+
+.section {
+   grid-area: conteudo;
+   background-color: blueviolet;
+}
+
+.icones-redes-sociais {
+   grid-area: icones;
+   background-color: burlywood;
 }
