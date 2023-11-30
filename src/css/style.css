@@ -75,7 +75,6 @@ main {
 }
 
 .icones-redes-sociais {
-   margin-top: 20px;
    grid-area: icones;
    justify-self: end;
 }
