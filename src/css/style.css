@@ -32,10 +32,9 @@ main {
    margin-bottom: 30px;
 }
 
-figure img{
+.mockups-ilustration img{
    grid-area: mockups;
    width: 100%; 
-   background-size: cover;
    padding-right: 40px;
 
 }

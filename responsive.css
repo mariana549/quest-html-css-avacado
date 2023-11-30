@@ -14,7 +14,7 @@
       width: 160px;
    }
 
-   figure img{
+   .mockups-ilustration img{
       padding-right: 0;
    }
 
@@ -23,7 +23,7 @@
       flex-direction: column;
       align-items: center;
       text-align: center;
-      width: 390px;
+      min-width: 390px;
       padding-top: 0px;
    }
 
