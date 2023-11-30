@@ -16,7 +16,7 @@ main {
 
 .container {
    width: 80%;
-   height: 90%;
+   /* height: 100%; */
    display: grid;
    /* background-color: aqua; */
    grid-template-areas:
@@ -76,5 +76,10 @@ figure img{
 
 .icones-redes-sociais {
    grid-area: icones;
-   background-color: burlywood;
+   background-color: brown;
+   
 }
+
+ion-icon {
+   color: blue;
+ }
