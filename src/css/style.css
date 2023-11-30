@@ -32,32 +32,26 @@ main {
    margin-bottom: 30px;
 }
 
-.header::before{
-   content: url("../images/logo.svg");
-}
-
-
-
 figure img{
    grid-area: mockups;
    width: 100%; 
    background-size: cover;
    padding-right: 40px;
+
 }
 
 .section {
    grid-area: conteudo;
    padding-top: 35px;
-   /* max-width: 560px; */
 }
 
-.section h1 {
+.section .titulo-principal {
    font-family: var(--titulos);
-   font-size: 2.5em;
+   font-size: 2.5rem;
    color: white;
 }
 
-.section p{
+.section .descricao{
    color: white;
    margin-top: 20px;
    font-size: 1.2em;
@@ -71,7 +65,7 @@ figure img{
    border-radius: 25px;
    color: var(--Violet);
    font-size: 1em;
-   box-shadow: 1px 4px 18px rgba(0, 0, 0, 0.749);
+   box-shadow: 1px 4px 18px rgba(0, 0, 0, 0.444);
 }
 
 .icones-redes-sociais {
