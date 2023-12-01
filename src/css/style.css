@@ -34,7 +34,7 @@ main {
 
 .mockups-ilustration img{
    grid-area: mockups;
-   max-width: 100%; 
+   width: 100%; 
    padding-right: 40px;
 
 }
@@ -57,18 +57,17 @@ main {
    font-family: var(--paragrafros);
 }
 
-.section button{
+.section a button{
    margin-top: 20px;
    width: 250px;
    height: 50px;
    border-radius: 25px;
-   color: var(--Violet);
    font-size: 1em;
    box-shadow: 1px 4px 18px rgba(0, 0, 0, 0.444);
-
+   color: var(--Violet);
 }
 
-.section button:hover{
+.section a button:hover {
    background-color: var(--Soft-Magenta);
    color: white;
    transition-duration: .3s;   
