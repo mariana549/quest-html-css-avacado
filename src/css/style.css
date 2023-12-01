@@ -15,7 +15,7 @@ main {
 }
 
 .container {
-   width: 80%;
+   max-width: 1440px;
    display: grid;
    grid-template-areas:
     "logo logo" 
@@ -34,14 +34,14 @@ main {
 
 .mockups-ilustration img{
    grid-area: mockups;
-   width: 100%; 
+   max-width: 100%; 
    padding-right: 40px;
 
 }
 
 .section {
    grid-area: conteudo;
-   padding-top: 35px;
+   margin-top: 70px;
 }
 
 .section .titulo-principal {
