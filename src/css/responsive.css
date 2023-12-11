@@ -1,4 +1,9 @@
 @media (max-width: 555px) {
+   main {
+      background: url('/src/images/bg-mobile.svg') no-repeat top;
+      background-size: 100%;
+   }
+
    .container {
       height: 90%;
       width: 85%;
@@ -18,7 +23,7 @@
 
    .mockups-ilustration img{
       padding-right: 0;
-      
+
    }
 
    .section {
@@ -32,14 +37,14 @@
 
    .section .titulo-principal {
       font-family: var(--titulos);
-      font-size: 1.9rem;
+      font-size: 1.8rem;
       color: white;
    }
 
    .section .descricao{
       color: white;
       margin-top: 20px;
-      font-size: 1em;
+      font-size: 0.9em;
       font-family: var(--paragrafros);
    }
 
