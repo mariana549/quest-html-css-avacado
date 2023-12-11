@@ -2,7 +2,7 @@
 
 ## 🔗 Sobre o projeto
 
-Este projeto é uma página web que mostra as habilidades dos alunos da DevQuest em HTML e CSS avançado. A página é inspirada em um design fornecido pela DevQuest, mas com algumas modificações e melhorias. A página é bonita, interativa e funcional, e pode ser acessada [aqui](https://quest-html-css-avacado.vercel.app/).
+Este projeto é uma página web que mostra as habilidades dos alunos da DevQuest em HTML e CSS avançado. A página é inspirada em um design fornecido pela frontend mentor, mas com algumas modificações e melhorias. A página é bonita, interativa e funcional, e pode ser acessada [aqui](https://quest-html-css-avacado.vercel.app/).
 
 ## 📝 Objetivos
 
