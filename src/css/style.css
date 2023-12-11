@@ -78,6 +78,10 @@ main {
    justify-self: end;
 }
 
+.icones-redes-sociais nav ul{
+   display: flex;
+}
+
 ion-icon {
    color: white;
    border: solid 1px white;
