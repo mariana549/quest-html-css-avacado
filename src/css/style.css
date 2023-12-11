@@ -59,7 +59,7 @@ main {
 
 .section a button{
    margin-top: 20px;
-   width: 250px;
+   width: 200px;
    height: 50px;
    border-radius: 25px;
    font-size: 1em;
@@ -82,7 +82,7 @@ main {
    display: flex;
 }
 
-ion-icon {
+.icones-redes-sociais nav ul ion-icon {
    color: white;
    border: solid 1px white;
    border-radius: 50%;
@@ -91,7 +91,7 @@ ion-icon {
    margin-left: 10px;
 }
 
-ion-icon:hover {
+.icones-redes-sociais nav ul ion-icon:hover {
    color: var(--Soft-Magenta);
    border: solid 1px var(--Soft-Magenta);
    transition-duration: .3s;   
