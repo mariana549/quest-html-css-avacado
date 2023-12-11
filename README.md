@@ -1,23 +1,29 @@
-# 🚀 quest-html-css-avancado
+# 🚀 Quest HTML e CSS Avançado
 
-## 🔗 Resultado
+## 🔗 Sobre o projeto
 
-O resultado do projeto foi uma página bonita, interativa e funcional.
-A página pode ser acessada no seguinte endereço: [veja o projeto](https://quest-html-css-avacado.vercel.app/).
+Este projeto é uma página web que mostra as habilidades dos alunos da DevQuest em HTML e CSS avançado. A página é inspirada em um design fornecido pela DevQuest, mas com algumas modificações e melhorias. A página é bonita, interativa e funcional, e pode ser acessada [aqui](https://quest-html-css-avacado.vercel.app/).
 
-## 📝 Descrição
+## 📝 Objetivos
 
-O projeto tem como objetivo ser dinâmico, interativo e terr animação.
+O objetivo deste projeto é demonstrar o domínio dos conceitos de HTML e CSS avançado, tais como:
 
-o projeto foi passado pela devquest, com o objetivo de testar os conhecimentos dos alunos sobre o que já foi passado pelo curso. testa a semântica e se conseguimos fazer o projeto com o maximo de semelhaça possivel com o designer.
+- Semântica: usar as tags adequadas para cada elemento da página, como main, header, divs, footer, nav e ul.
+- Responsividade: adaptar o layout da página para diferentes tamanhos de tela, usando media queries, flexbox e grid.
+- Animação: criar efeitos visuais dinâmicos e atraentes, transitions e transforms.
+
 
 ## 💻 Tecnologias
 
-html- semântica, main, header, divs, footer, nav e ul
-css - resposinvidade dos elementos, animação e estilização
+As tecnologias usadas neste projeto são:
+
+- HTML: a linguagem de marcação que define a estrutura da página.
+- CSS: a linguagem de estilo que define a aparência da página.
 
 
-## 😎 Veja como o projeto ficou em diferentes dispositivos:
+## 😎 Demonstração
+
+Veja como o projeto ficou em diferentes dispositivos:
 
 - computador
   
